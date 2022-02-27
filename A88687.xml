@@ -1,0 +1,562 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration by Major General Laughorn, and the rest of the forces joyned with him in VVales, of the grounds of their engagement, and demands in relation to the King, Parliament and kingdom. Likewise the copy of an oath given to all that enter into the said engagement with them. Also the true copies of several letters and transactions betwixt the Parliaments commissioners, Colonel Horton, and Major General Laughorn, since his last coming into Wales. And two letters to his Excellency the Lord Fairfax from Col: Horton, more fully relating the particulars of the late fight near Cardiff, May 8. 1648. With a perfect list of the names of the prisoners, officers, private gentlemen and soldiers taken in the said fight and pursuit.</title>
+            <author>Laugharne, Rowland, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88687</idno>
+            <idno type="STC">Wing L401</idno>
+            <idno type="STC">Thomason E442_8</idno>
+            <idno type="STC">ESTC R202823</idno>
+            <idno type="EEBO-CITATION">99862989</idno>
+            <idno type="PROQUEST">99862989</idno>
+            <idno type="VID">115169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115169)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration by Major General Laughorn, and the rest of the forces joyned with him in VVales, of the grounds of their engagement, and demands in relation to the King, Parliament and kingdom. Likewise the copy of an oath given to all that enter into the said engagement with them. Also the true copies of several letters and transactions betwixt the Parliaments commissioners, Colonel Horton, and Major General Laughorn, since his last coming into Wales. And two letters to his Excellency the Lord Fairfax from Col: Horton, more fully relating the particulars of the late fight near Cardiff, May 8. 1648. With a perfect list of the names of the prisoners, officers, private gentlemen and soldiers taken in the said fight and pursuit.</title>
+                  <author>Laugharne, Rowland, d. 1676.</author>
+               </titleStmt>
+               <extent>17 [i.e. 15], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 15. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 15 misnumbered 17.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Fagans (Wales), Battle of, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+               <term>Wales --  History --  1536-1700 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115169:1"/>
+            <pb facs="tcp:115169:1" rendition="simple:additions"/>
+            <p>A DECLARATION BY Major General <hi>Laughorn,</hi> AND The reſt of the Forces joyned with him IN WALES, Of the grounds of their Engagement, and Demands in rela<g ref="char:EOLhyphen"/>tion to the King, Parliament and Kingdom.</p>
+            <p>Likewiſe the Copy of an Oath given to all that enter into the ſaid Engagement with them.</p>
+            <p>Alſo the true Copies of ſeveral Letters and Tranſactions betwixt the Parliaments Commiſſioners, Colonel <hi>Hor<g ref="char:EOLhyphen"/>ton,</hi> and Major General <hi>Laughorn,</hi> ſince his laſt coming into <hi>Wales.</hi>
+            </p>
+            <p>And two Letters to his Excellency the Lord <hi>Fairfax</hi> from Col: <hi>Horton,</hi> more fully relating the particulars of the late Fight near <hi>Cardiff,</hi> May 8. 1648.</p>
+            <p>With a perfect Liſt of the Names of the Priſoners, Officers, private Gentlemen and Soldiers taken in the ſaid Fight and Purſuit.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Laurence Chapman,</hi> May 15. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:115169:2"/>
+            <pb n="3" facs="tcp:115169:2"/>
+            <head>A DECLARATION of Major Gen: <hi>Laughorn</hi> and his Forces, with the reſt of their Aſſociates.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E whoſe Names are ſubſcribed do Declare, That we will uſe our beſt Endeavors to bring the King to a Perſonal Treaty with His Parliament, with Freedom, Honor and Safety; To the end the juſt Prerogative of the King, Priviledges of Parliament, Laws of the Land, and Liberties of the people may be all maintained and preſerved in their proper bounds; and the Pro<g ref="char:EOLhyphen"/>teſtant Religion, as it ſtands eſtabliſhed by the Law of the Land, reſtored throughout the Kingdom, with ſuch regard to be had of Tender Conſciences, as ſhall be allowed by Act of Parliament.</p>
+            <div type="oath">
+               <head>The copy of an OATH impoſed upon the Gentry and others in <hi>Wales,</hi> upon the former Engagement and Declaration.</head>
+               <p>
+                  <hi>YOu that will either give conſent to this Declaration, &amp; joyn with us in effecting it; or if you ſhall not think fit ſo to do, then not to reveal or prejudice our Oath: and if you do conſent to it, then to joyn with us in Councel, &amp; not to reveal our Secrets to any, ſo long as they are Secrets, but to thoſe whom you think fit to reveal them to for the further<g ref="char:EOLhyphen"/>ing of the buſineſs, and thoſe to be ſuch as you do believe to be well affected to us, and will not betray or reveal our Secrets.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:115169:3"/>
+               <head>A Letter from Major Gen: <hi>Laughorn</hi> to Colonel <hi>Tho: Horton.</hi>
+               </head>
+               <opener>
+                  <salute>SIR:</salute>
+               </opener>
+               <p>I Deſire you would let me know, by what Power you firſt came, and ſtill remain in theſe counties of my Aſſociation, I being Commiſſioned Commander in chief of theſe parts by an Ordinance of Parliament; and upon what grounds the Injury of ſeizing on ſome of my Troop was offered, and the taking of the whole attempted, without ſatisfa<g ref="char:EOLhyphen"/>ction rendred them in point of Pay, according to the Inſtructions of Parliament to the Commiſsio<g ref="char:EOLhyphen"/>ners for Disbanding ſuch Supernumeraries: I ſhould gladly be ſatisfied in theſe supernumeraries: I ſhould gladly be ſatisfied in theſe particulars, otherwiſe your perſeverance in theſe Affronts to my ſelf, and the Soldiery, and the countrey, will not be without ſome difficulty. Sir, If you pleaſe to withdraw your forces out of this county, it may be a ſpecial means to prevent ſeveral Inconveniences; beſides the neceſſary Reſolutions which otherwiſe muſt be forced upon,</p>
+               <closer>
+                  <salute>Sir,</salute>
+                  <dateline>
+                     <hi>St. Nicholas,</hi> 
+                     <date>4 <hi>May,</hi> 1648.</date>
+                  </dateline>
+                  <signed>Your Servant, Row: Laughorn.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:115169:3"/>
+               <head>For Major General <hi>Laughorn.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Thought that it had not been unknown to you, that His Excellency the Lord <hi>Fairfax</hi> is General (by Ordinance of Parliament) of all the Forces both in <hi>England</hi> and <hi>Wales,</hi> and is impowered to diſ<g ref="char:EOLhyphen"/>poſe of them into ſuch places, and in ſuch maner as he ſhall ſee cauſe, for the preſervation of the Peace of this Kingdom; In order to which, he command<g ref="char:EOLhyphen"/>ed me into theſe Counties, with the Forces now un<g ref="char:EOLhyphen"/>der my command, occaſioned hither by Colonel <hi>Poyers</hi> refuſing to Disband according to Ordinance of Parliament, and His Excellencies Orders to that end, and Col: <hi>Powel</hi>'s adhering to him; notwith<g ref="char:EOLhyphen"/>ſtanding whoſoever ſhould ſo do, were adjudged and declared Traytors by the Parliament: As alſo Col: <hi>Poyer's</hi> and Col: <hi>Powel</hi>'s (with others their Con<g ref="char:EOLhyphen"/>federates) iſſuing out Warrants (without the leaſt co<g ref="char:EOLhyphen"/>lour of Authority) for the tumultuous raiſing of the Counties of Southwales; Their entertaining Ca<g ref="char:EOLhyphen"/>ptain <hi>Arram</hi>'s Company of Foot, after they had received Three moneths pay, and were by the Com<g ref="char:EOLhyphen"/>miſſioners of this County declared Disbanded; Their inviting and gathering together moſt of the Officers and Soldiers which were Disbanded in this county; and the joyning all theſe with the moſt active Cavaliers, both in theſe and other parts, into a Bo<g ref="char:EOLhyphen"/>dy,
+<pb n="6" facs="tcp:115169:4"/>to the great Diſturbonce of the Peace, and much impoveriſhing of theſe Counties; As alſo the appa<g ref="char:EOLhyphen"/>rent laying the Foundations of a New War; Beſides the Affronts put upon two Companies of Foot (ſent by his Excellency to aſſiſt the reducing of Pembroke Caſtle) by ſome of your Forces, which was owned by Col: <hi>Powel,</hi> before any thing was attempted upon Capt. <hi>Agborows</hi> Troop, called yours; who notwith<g ref="char:EOLhyphen"/>ſtanding the mutual Engagement betwixt the Co<g ref="char:cmbAbbrStroke">̄</g>miſ<g ref="char:EOLhyphen"/>ſioners of this county, my ſelf, and the Captain, That his Troop ſhould not depart this County, where they ſhould lie ſecure until Disbanded; yet Captain <hi>Agborow,</hi> having received Four hundred pounds in order to Disbanding, gave private Orders (as I can clearly prove) to his Lieutenant, to march (upon my advance) to joyn with Col: <hi>Powel;</hi> which Orders the Lieutenant did obſerve, refuſing to return into this County, to receive the reſt of his Disbanding money, though thereunto deſired by the Commiſ<g ref="char:EOLhyphen"/>ſioners. Whereas I now underſtand that you are come down into the Countrey (conſidering the for<g ref="char:EOLhyphen"/>mer Truſt the Parliament hath repoſed in you, and your late Obligations to them) I would have rather believed, that you came with an intention to joyn with us, for the ſuppreſſing of that Tumultuous Aſ<g ref="char:EOLhyphen"/>ſembly with you, then to appear amongſt, and own thoſe who have ſo manifeſtly violated the Authority of Parliament, which you ſeem to maintain, and in<g ref="char:EOLhyphen"/>fiſt uponin your Letter to me,</p>
+               <closer>
+                  <salute>Sir,</salute>
+                  <dateline>
+                     <date>
+                        <hi>May</hi> 5. 1648.</date>
+                  </dateline>
+                  <signed>Your Servant, <hi>Tho: Horton.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="7" facs="tcp:115169:4"/>
+               <head>A Letter from Col: <hi>Horton</hi> to His Excel<g ref="char:EOLhyphen"/>lency, The Lord General.</head>
+               <opener>
+                  <salute>May it pleaſe your Excellency,</salute>
+               </opener>
+               <p>IN my laſt I made mention of ſundry Gentlemen of the counties of <hi>Brecknock</hi> and <hi>Radnor</hi> met at Bealt, to conſult about the raiſing of thoſe counties to joyn with Col: <hi>Powel;</hi> and my ſending a party to apprehend them, the ſucceſs whereof was the taking of one Mr. <hi>Hugh Lloyd</hi> (one of the excepted perſons) <hi>Lewis Lloyd</hi> late Sheriff of Brecon, and one of his ſons <hi>Marmaduke Lloyd,</hi> and ſome others. After the Ammunition was come up to us at Brecknock, we being upon a ſerious debate of our next motion, which was propoſed for Pembrokeſhire; We were aſcertained by ſome ſpecial Friends in Glamorgan<g ref="char:EOLhyphen"/>ſhire, That the body of the Enemy was fallen down into that county, having a Deſign upon Cardiff, both by force and feigned friendſhip tempting the cordial and conſtant minded Governor, with Mr. <hi>Buſhy-Man<g ref="char:EOLhyphen"/>ſel,</hi> to come in unto them, ſo that we were neceſſita<g ref="char:EOLhyphen"/>ted, for the preſervation of that place, and prevention of the Enemies Deſign, of intirely raiſing the counties of Glamorgan and Monmouth (which in the judge<g ref="char:EOLhyphen"/>ment of wiſe and faithful men, was thought to be no leſs probable then dangerous) to march with all poſ<g ref="char:EOLhyphen"/>ſible ſpeed towards Cardiff, which was done with much difficulty, by reaſon of all ways over the Mountains, very unſeaſonable weather, and want of Accommodations both for Horſe and Man; and at laſt we paſſed the River Taff at Landaff, about a mile
+<pb n="8" facs="tcp:115169:5"/>above Cardiff, and came to St. Fagons upon the Ri<g ref="char:EOLhyphen"/>ver Ely, whether the Enemy intended to have advan<g ref="char:EOLhyphen"/>ced the ſame night, which occaſioned their ſtop at St. Nicholas, two miles from us on the other ſide of the River Ely, being a place much for their advan<g ref="char:EOLhyphen"/>tage, where we could make no uſe of our Horſe, and becauſe for want of food we could not rationally at<g ref="char:EOLhyphen"/>tempt any thing upon them. This morning the Ene<g ref="char:EOLhyphen"/>my is drawn off from S. Nicholas towards Penmark and Fulnum caſtle. Major Gen, <hi>Laughorn</hi> came to them on the 4. of May, and on the fift ſent two Let<g ref="char:EOLhyphen"/>ters, one to the Commiſſioners of this county, and an<g ref="char:EOLhyphen"/>other to my ſelf, the copies of both which, with our Anſwers, I have herewith ſent unto your Excellency: It hath been formerly repreſented to your Excellen<g ref="char:EOLhyphen"/>cy by our moſt knowing and faithful Friends in theſe parts, how improbable it was, that one party, though more conſiderable then ours is, ſhould of it ſelf be able to ſubdue the Enemy in the Field, reduce Pem<g ref="char:EOLhyphen"/>broke, and keep all Southwales from riſing, being generally inclined to it, by reaſon of the malignity of the moſt of the Gentry, which lead the common ſort of people which way they pleaſe, which we fin 'e by every days experience; and without doubt, Tu<g ref="char:EOLhyphen"/>mults will grow greater, and their numbers increaſe, if ſuch a ſtrength be not aſſigned to theſe parts as may attend both the motion of the Enemy, and to awe thoſe places which are moſt apt to riſe. Captain <hi>Creed,</hi> with three Troops of Col: <hi>Thornhaughs</hi> Regi<g ref="char:EOLhyphen"/>ment doth very good ſervice in this kinde, being now quartered about Glaſebery bridge, which is a great paſs near the conjunction of the counties of <hi>Hereford,</hi>
+                  <pb n="9" facs="tcp:115169:5"/>Radnor and Brecon, Col: <hi>Philip Jones,</hi> with his Com<g ref="char:EOLhyphen"/>pany from Swanzy, hath (for our aſſiſtance) been with us in all our march, and himſelf many ways helpful to us: I had frequently acquainted your Excellency with our condition, the temper of theſe parts, and the ſtate of the Enemy, had I not been hindred both from intelligence from my friends, and likewiſe from ſending to your Excellency, the coun<g ref="char:EOLhyphen"/>trey people ſearching all paſſengers, and abuſing of them: I am much afflicted that I can give your Ex<g ref="char:EOLhyphen"/>cellency no better Accompt of the ſtate of South<g ref="char:EOLhyphen"/>wales, but in one word I muſt ſay again, That it is generally againſt the Parliament, ſo that what our condition hath been, and is like to be, before any ſup<g ref="char:EOLhyphen"/>ply can probably be ſent hither, your Excellency may eaſrly perceive; yet by Gods aſſiſtance I ſhal uſe my beſt endeavor (with my life) to prove my ſelf ſtill faithful to the Kingdoms intereſt, and</p>
+               <closer>
+                  <signed>Your Excellencies moſt humble Servant, <hi>Tho: Horton.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>St. Fagons,</hi> 
+                     <date>May 6. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Major General <hi>Laughorns</hi> Letter to the Parliaments Commiſsioners.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>I Cannot be ignorant how the ſole command of theſe Aſſociated counties was conferred upon me by Ordinance of Parliament, nor of the Injuries
+<pb n="10" facs="tcp:115169:6"/>and Affronts put upon my men, in ſtead of receiving their Pay allowed them by the Parliament, and a<g ref="char:EOLhyphen"/>greed upon by ſome of your ſelves. Truly, I was very confident my paſt Service for your countrey, had merited much better of you, then that ſuch Miſ<g ref="char:EOLhyphen"/>carriages ſhould happen in my abſence, and to your knowledge unrighted: However, if you pleaſe to appear with your countrey, and to continue your En<g ref="char:EOLhyphen"/>deavors in prevention of the Slavery threatned it, you ſhall not fail of the moſt effectual aſſiſtance ſhall lie in the power of,</p>
+               <closer>
+                  <salute>Gentlemen,</salute>
+                  <dateline>
+                     <hi>St. Nicholas,</hi> 
+                     <date>4 May, 1648.</date>
+                  </dateline>
+                  <signed>Your humble Servant, <hi>Rowland Laughorn.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Commiſsioners <hi>Anſwer.</hi>
+               </head>
+               <p>AS we are not ignorant that you were Com<g ref="char:EOLhyphen"/>mander in chief of the Forces of this Coun<g ref="char:EOLhyphen"/>ty, by vertue of an Ordinance of Parliament, ſo we well know that by the like Ordinances, <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> Lord <hi>Fairfax</hi> is appointed General of all the Forces of <hi>England</hi> and Dominion of <hi>Wales,</hi> and that the Forces under your Commaud, were by an Or<g ref="char:EOLhyphen"/>dinance of Parliament to be Disbanded; upon his Exceſſencies Orders in proſecution whereof, ſuch of them as lay in this county received their money,
+<pb n="11" facs="tcp:115169:6"/>and ſome of them thereupon disbanded, and all de<g ref="char:EOLhyphen"/>parted this county, whereinto they nor any other of your Forces were not again to return, without the Lord General his Orders, but ought to have remain<g ref="char:EOLhyphen"/>ed in the reſpective counties wherein they then lay, to yield their obedience to the Ordinance of Parlia<g ref="char:EOLhyphen"/>ment for disbanding: We therefore much wonder, that not onely your Forces lying in the other coun<g ref="char:EOLhyphen"/>ties, but likewiſe thoſe who had received their mo<g ref="char:EOLhyphen"/>ney and debenters, and had been departed, disband<g ref="char:EOLhyphen"/>ed; yea, and a great part of the Inhabitants of Car<g ref="char:EOLhyphen"/>marthen, Pembroke and Cardigan, ſhould be drawn into this county, we know not any colour of the Authority of Parliament for ſuch proceedings: If you pleaſe to appear with us, to eaſe our countrey of this intollerable burthen, and to prevent the ſlavery that thereby is endeavored to be brought upon us, and the whole county, we ſhall be glad of your aſ<g ref="char:EOLhyphen"/>ſiſtance: As for injuries and affronts put upon your men in your abſence, we are ſo far from being privy to any, that we believe we have ſhewed to them all poſſible reſpects and civility, and have not been in the leaſt meaſure behinde in the pay alloted them by the Parliament, whatſoever we have exceeded; wherein might have appeared our willingneſs, to expreſs to your ſelf and Forces, all the affection that became real welwiſhers to the publique good:</p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>your humble Servants</signed>
+                  <dateline>
+                     <date>5. <hi>May,</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:115169:7"/>
+               <head>Another Letter from the Major General to the Commiſsioners.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>NOr can I be ignorant how much you have forgotten your Service I and my Soldiers have done you in your greateſt Neceſsities; nor could they nor my ſelf expect much favor in our Disbanding, knowing ſome of you have conſtantly deſigned our Ruine from the beginning, and rather have been affected to your own Ends, in promoting a Faction, then any way reflecting upon the Publique good: But 'tis my comfort, the countrey hath a better ſence of me and my abuſed Soldiers, then you have had, who neglected the Generals Order in that point of Satisfaction to me allowed by him: And for my Soldiers, I refer it to the World, how inſtru<g ref="char:EOLhyphen"/>mental ſome of you have been, by your ill uſage to diſtemper them, for the enſlaving your countrey. I promiſe you, my ſelf and all with me are far from the thoughts of it; and if you will but free your ſelves and countrey from thoſe with you now, more likely to enſlave you, you ſhall finde me very ready to comply with your deſires, in drawing of the bur<g ref="char:EOLhyphen"/>then off your Neighboring countreys, and appear, in what lies in my power,</p>
+               <closer>
+                  <salute>Gentlemen,</salute>
+                  <dateline>
+                     <date>
+                        <hi>May</hi> 6. 1648.</date>
+                  </dateline>
+                  <signed>Your Servant, <hi>Rowland Laughorn.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="13" facs="tcp:115169:7"/>
+               <head>Another Letter from Col: <hi>Horton,</hi> to his Excellency the Lord <hi>Fairfax.</hi>
+               </head>
+               <opener>
+                  <salute>May it pleaſe your Excellency,</salute>
+               </opener>
+               <p>I Have already given you an Accompt of our late tedious Marches and condition, which ſeemed, (through the great increaſe of the Enemies num<g ref="char:EOLhyphen"/>bers, by reaſon of the general defection of theſe counties) to be very hazardous, we having for ſome time layen at St. Fagons, near unto the Enemies Body, about two miles from us, at St. Nicholas. The Enemy on Friday laſt drew back to Lancarven, Penmark and Fulmun Caſtle, where they lay untill the Lords day at night; at which time they advan<g ref="char:EOLhyphen"/>ced to Peterſtown: Upon Monday morning the Eigth of this inſtant, the Enemy advanced with their Body towards us, and we having ſome notice of it, drew forth, and took the beſt ground the place could afford: The Enemy tell us they were Eight thouſand Horſe and Foot. We had a ſharp diſpute with them for about two hours: In our Diſadvan<g ref="char:EOLhyphen"/>tages, the Lord of Hoſts wonderfully encouraged both our Officers and Soldiers, that unanimouſly (as the Hedges and Bogs would permit) they charged the Enemy, who were wholly Routed, and pur<g ref="char:EOLhyphen"/>ſued about Seven miles: Many of the Enemy were ſlain upon the place, and in the purſuit we have ta<g ref="char:EOLhyphen"/>ken, as I gueſs, about Three thouſand Priſoners; as alſo Major General <hi>Stradling,</hi> with many Officers and Gentlemen: We have taken all their Ammuni<g ref="char:EOLhyphen"/>tion,
+<pb n="14" facs="tcp:115169:8"/>great ſtore of Arms, and moſt, if not all their Colours. We have loſt not many Soldiers, and not one Officer that I can yet hear of: We had a great loſs in Horſes, our Horſe being forced to ſtand the Enemies ſhot, to ſecond our Foot. Major General <hi>Laughorn,</hi> I hear, commanded the Field: About Sixty Horſe of the Enemy charged once, but was beat back, and after not any of them appeared. Ere long I ſhall give your Excellency a more parti<g ref="char:EOLhyphen"/>cular Accompt of what the Lord hath done this day: And though both Officers and Soldiers kept their order, and diſcharged their Duties very chear<g ref="char:EOLhyphen"/>fully and couragiouſly, yet they earneſtly deſire that God may have all the honor, and ſo doth</p>
+               <closer>
+                  <signed>Your Excellencies moſt humble and faithful Servant,<hi>Tho: Horton. For his Excellency</hi> Tho: <hi>Lord</hi> Fairfax, <hi>General of all the Parliaments For<g ref="char:EOLhyphen"/>ces in</hi> England <hi>and</hi> Wales.</signed>
+                  <dateline>
+                     <hi>Dated in the Field,</hi> 
+                     <date>
+                        <hi>May</hi> 8. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="list_of_commanders">
+               <head>A Liſt of the Commanders Names in cuſto<g ref="char:EOLhyphen"/>dy in <hi>Wales</hi> taken Priſoners at the Fight near <hi>Cardiff, May</hi> 8. 1648.</head>
+               <list>
+                  <item>MAjor General <hi>Stradling,</hi>
+                  </item>
+                  <item>Major <hi>Hopkins.</hi>
+                  </item>
+                  <item>Captain <hi>Matthews.</hi>
+                  </item>
+                  <item>Captain <hi>Rowland</hi>
+                  </item>
+                  <item>
+                     <hi>Matthews.</hi>
+                  </item>
+                  <item>Capt. <hi>James Mat<g ref="char:EOLhyphen"/>thews.</hi>
+                  </item>
+                  <item>Capt. <hi>Evan Price.</hi>
+                  </item>
+                  <item>Capt. <hi>Craduck.</hi>
+                  </item>
+                  <item>Capt. <hi>William But<g ref="char:EOLhyphen"/>ton.</hi>
+                  </item>
+                  <item>Capt. <hi>Lewis.</hi>
+                  </item>
+                  <item>Capt. <hi>Floyd.</hi>
+                  </item>
+                  <item>Capt. <hi>Williams.</hi>
+                  </item>
+                  <pb n="17" facs="tcp:115169:8"/>
+                  <item>Captains,
+<list>
+                        <item>
+                           <hi>Hugh Floyd.</hi>
+                        </item>
+                        <item>
+                           <hi>Charls Aberey.</hi>
+                        </item>
+                        <item>
+                           <hi>Hopkins.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Matthews.</hi>
+                        </item>
+                        <item>
+                           <hi>Owens.</hi>
+                        </item>
+                        <item>
+                           <hi>Jones.</hi>
+                        </item>
+                        <item>
+                           <hi>Pewery.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho: Bowing.</hi>
+                        </item>
+                        <item>
+                           <hi>John Thomas.</hi>
+                        </item>
+                        <item>
+                           <hi>John Rice.</hi>
+                        </item>
+                        <item>
+                           <hi>Lucy Iones.</hi>
+                        </item>
+                        <item>
+                           <hi>Edmonds.</hi>
+                        </item>
+                        <item>
+                           <hi>Griffith Bowing.</hi>
+                        </item>
+                        <item>25.</item>
+                     </list>
+                  </item>
+                  <item>Capt. Lieut. <hi>Bartlet.</hi>
+                  </item>
+                  <item>Capt. Lieut. <hi>Hewit.</hi>
+                  </item>
+                  <item>Lieutenants,
+<list>
+                        <item>
+                           <hi>Thomas Iones.</hi>
+                        </item>
+                        <item>
+                           <hi>Button.</hi>
+                        </item>
+                        <item>
+                           <hi>Swale.</hi>
+                        </item>
+                        <item>
+                           <hi>Weſe.</hi>
+                        </item>
+                        <item>
+                           <hi>Richards.</hi>
+                        </item>
+                        <item>
+                           <hi>Prichard.</hi>
+                        </item>
+                        <item>
+                           <hi>Prother.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas.</hi>
+                        </item>
+                        <item>
+                           <hi>Talbot.</hi>
+                        </item>
+                        <item>
+                           <hi>Pew.</hi>
+                        </item>
+                        <item>
+                           <hi>Jenkins.</hi>
+                        </item>
+                        <item>
+                           <hi>Mockames.</hi>
+                        </item>
+                        <item>
+                           <hi>Floyd.</hi>
+                        </item>
+                        <item>
+                           <hi>Griffith.</hi>
+                        </item>
+                        <item>
+                           <hi>Williams.</hi>
+                        </item>
+                        <item>
+                           <hi>Powel.</hi>
+                        </item>
+                        <item>
+                           <hi>William Griffith,</hi>
+                        </item>
+                        <item>
+                           <hi>Lucas.</hi>
+                        </item>
+                        <item>
+                           <hi>Suttleworth.</hi>
+                        </item>
+                        <item>
+                           <hi>Loyd.</hi>
+                        </item>
+                        <item>
+                           <hi>Grimar.</hi>
+                        </item>
+                        <item>
+                           <hi>Griffith.</hi>
+                        </item>
+                        <item>
+                           <hi>Walter Iones.</hi>
+                        </item>
+                        <item>
+                           <hi>Taylor.</hi>
+                        </item>
+                        <item>
+                           <hi>Newſam.</hi>
+                        </item>
+                        <item>
+                           <hi>Lewis Iones.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho: Morgan.</hi>
+                        </item>
+                        <item>
+                           <hi>Peregrine.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho: Jenkins.</hi>
+                        </item>
+                        <item>32</item>
+                     </list>
+                  </item>
+                  <item>Enſigns,
+<list>
+                        <item>
+                           <hi>Haires.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho: Hopkins.</hi>
+                        </item>
+                        <item>
+                           <hi>Walter.</hi>
+                        </item>
+                        <item>
+                           <hi>Rowland Petrow.</hi>
+                        </item>
+                        <item>
+                           <hi>John Williams.</hi>
+                        </item>
+                        <item>
+                           <hi>More Prichard.</hi>
+                        </item>
+                        <item>
+                           <hi>John Carey.</hi>
+                        </item>
+                        <item>
+                           <hi>Nat: Gee.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho: Patchard.</hi>
+                        </item>
+                        <item>
+                           <hi>Auberey Haward.</hi>
+                        </item>
+                        <item>
+                           <hi>William Fluin Grif<g ref="char:EOLhyphen"/>fith.</hi>
+                        </item>
+                        <item>
+                           <hi>Orian Morfew.</hi>
+                        </item>
+                        <item>
+                           <hi>Walter Williams.</hi>
+                        </item>
+                        <item>
+                           <hi>John Barriſon.</hi>
+                        </item>
+                        <item>
+                           <hi>Griffeth Thomas.</hi>
+                        </item>
+                        <item>
+                           <hi>Bartholomew Rutter.</hi>
+                        </item>
+                        <item>
+                           <hi>Rice John.</hi>
+                        </item>
+                        <item>
+                           <hi>Owen Bowin.</hi>
+                        </item>
+                        <item>
+                           <hi>Morgan Relarth.</hi>
+                        </item>
+                        <item>
+                           <hi>Rice Hewel.</hi>
+                        </item>
+                        <item>
+                           <hi>James Annis.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho: Williams.</hi>
+                        </item>
+                        <item>
+                           <hi>James Harman.</hi>
+                        </item>
+                        <item>
+                           <hi>Matt: Stakey.</hi>
+                        </item>
+                        <item>
+                           <hi>Evan Richard.</hi>
+                        </item>
+                        <item>
+                           <hi>John Barksted.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed: Thomas.</hi>
+                        </item>
+                        <item>27.</item>
+                     </list>
+                  </item>
+                  <item>Private Gentlemen,
+<list>
+                        <item>
+                           <hi>Samuel Howel.</hi>
+                        </item>
+                        <item>
+                           <hi>Hump. Matthews.</hi>
+                        </item>
+                        <item>
+                           <hi>Parſon Owen.</hi>
+                        </item>
+                        <item>
+                           <hi>Dame Pewry.</hi>
+                        </item>
+                        <item>
+                           <hi>Rich: Floyd.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Davy.</hi>
+                        </item>
+                        <item>
+                           <hi>Roger Williams.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Mawning.</hi>
+                        </item>
+                        <item>
+                           <hi>Geo: Davis.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Nichol</hi> Chy<g ref="char:EOLhyphen"/>rurgion.</item>
+                        <item>10</item>
+                     </list>
+                  </item>
+                  <item>The whole number Ninety four.</item>
+                  <item>Private Soldiers in cu<g ref="char:EOLhyphen"/>ſtody, above 2000.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi> Gilbert Mabbot.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
